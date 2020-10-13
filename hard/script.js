@@ -43,3 +43,4 @@ let namePerson = prompt('Введите имя');
 
 let message = (namePerson === 'Артем') ? console.log('Вы директор'):
     (namePerson === 'Максим') ? console.log('Вы преподаватель'): console.log('Вы студент');
+    
